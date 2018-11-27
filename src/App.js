@@ -6,7 +6,7 @@ class App extends Component {
   render() {
 	  const word = "is good"
 	  const className='header'
-	  const isGoodWord =true
+	  //const isGoodWord =true
 	  
     return (
 	    <div>
